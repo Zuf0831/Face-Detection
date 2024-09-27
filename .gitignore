@@ -1,0 +1,7 @@
+.venv
+/Video
+model.weights.h5
+*.h5
+*.xml
+/fileData
+model.weights.h5
